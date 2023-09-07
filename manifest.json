@@ -1,0 +1,13 @@
+{
+    "name" : "IPL Chrome Extension",
+    "version" : "1.0.0",
+    "description" : "Best Extension in the world",
+    "manifest_version" : 3,
+    "author" : "Pankaj Yadav",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_icon" : "logo2.png",
+        "default_title" : "My chrome Extension"
+    }
+}
+
